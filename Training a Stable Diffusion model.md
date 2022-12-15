@@ -1,3 +1,5 @@
+# Training a Stable Diffusion model
+
 A tutorial for training a Stable Diffusion model with Dreambooth (software used to teach Stable Diffusion models new concepts) and RunPod.io (an inexpensive, GPU-focused VPS provider) - for under $1 per model. I’m basically summarizing and expanding upon the 42 minute tutorial from [Aitrepreneur](https://www.youtube.com/watch?v=7m__xadX0z0), so use that as a reference if this guide is unclear.
 
 # Here be dragons
